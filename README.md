@@ -6,8 +6,8 @@ I'm on a journey to code meaningful things! Please feel free to browse my profil
 
 ## 🤝 Let's discuss
 
-<a href="https://www.linkedin.com/in/loic-etienne/" style='display: inline-block; margin-right: 10px;'><img src='https://cdn-icons-png.flaticon.com/512/145/145807.png' alt='LinkedIn profile' width='30'></a>
-<a href="https://bento.me/loic-etienne" style='display: inline-block; margin-right: 10px;'><img src='https://global-uploads.webflow.com/6335b33630f88833a92915fc/63860225045ce50e33d20eb3_Logo.svg' alt='My Bento' width='30'></a>
+<a href="https://www.linkedin.com/in/loic-etienne/" style='display: inline-block; margin-right: 10px;'><img src='https://user-images.githubusercontent.com/59501884/223394692-29a71040-35b2-4dad-a570-0d06778996d1.png' alt='LinkedIn profile' width='30'></a>
+<a href="https://bento.me/loic-etienne" style='display: inline-block; margin-right: 10px;'><img src='https://user-images.githubusercontent.com/59501884/223395249-a9226c76-3427-425a-85f0-79381499c0c4.svg' alt='My Bento' width='30'></a>
 
 ## 👨🏻‍💻 Techical skillset
 
